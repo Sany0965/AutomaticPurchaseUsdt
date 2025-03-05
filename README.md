@@ -75,6 +75,6 @@ python usdt.py
 
 ---
 
-Разработано [ваше имя] | [GitHub](https://github.com/Sany0965)  
+Разработано [Worpli] | [GitHub](https://github.com/Sany0965)  
 Использует API: ЮMoney, Cryptobot, Exchange Rates API.
 ```
